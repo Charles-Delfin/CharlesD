@@ -1,35 +1,3 @@
-# CharlesD
-Hello People mabuhay 
-<div align="center">
-  <img height="100" src="https://www.facebook.com/share/p/19EWTjXfW6/"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h1 align="center">Hi 👋 I'm  Charles sango</h1>
-
-###
-
-<br clear="both">
-
-<p align="center">Social media accounts</p>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/charliepot__?igsh=NDd3bjg2cDllYWE5" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/share/1CdaS6Px2D/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
 
 <p align="center">Software that I can use</p>
 
